@@ -197,7 +197,7 @@ button::-moz-focus-inner {
   .mfp-arrow:before {
     border-top-width: 21px;
     border-bottom-width: 21px;
-    opacity: 0.7; }
+    opacity: 0.6; }
 
 .mfp-arrow-left {
   left: 0; }
@@ -307,13 +307,67 @@ img.mfp-img {
       margin: 40px auto;
       position: relative;
 	  border-radius:3px;
-	  font-size:9pt;
+	  font-size:12pt;
 	  font-family: Tiempos;
   }
   
   .white-popup-block-content {
 	  max-width:480px;
   }
+  
+  .white-box-image-size {
+  	  width:31px;
+  }
+  
+ 
+ @media screen and (max-width: 518px) {
+     /* Customized***********/
+     .white-popup-block {
+         background: #FFF;
+         padding: 20px 12px;
+         text-align: left;
+         max-width: 480px;
+         margin: 40px auto;
+         position: relative;
+   	     border-radius:3px;
+   	     font-size:11pt;
+   	     font-family: Tiempos;
+     }
+  
+     .white-popup-block-content {
+   	  max-width:440px;
+     }
+	 
+     .white-box-image-size {
+     	  width:16px;
+     }
+ }
+ 
+ @media screen and (max-width: 321px) {
+     /* Customized***********/
+     .white-popup-block {
+         background: #FFF;
+         padding: 20px 12px;
+         text-align: left;
+         max-width: 300px;
+         margin: 40px auto;
+         position: relative;
+   	     border-radius:3px;
+   	     font-size:9pt;
+   	     font-family: Tiempos;
+     }
+  
+     .white-popup-block-content {
+   	  max-width:280px;
+     }
+	 
+     .white-box-image-size {
+     	  width:16px;
+     }
+ }
+ 
+  
+  
 
 @media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
   /**
