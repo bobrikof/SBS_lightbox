@@ -343,7 +343,54 @@ img.mfp-img {
      }
  }
  
- @media screen and (max-width: 321px) {
+ @media screen and (max-width: 470px) {
+     /* Customized***********/
+     .white-popup-block {
+         background: #FFF;
+         padding: 20px 12px;
+         text-align: left;
+         max-width: 430px;
+         margin: 40px auto;
+         position: relative;
+   	     border-radius:3px;
+   	     font-size:9pt;
+   	     font-family: Tiempos;
+     }
+  
+     .white-popup-block-content {
+   	  max-width:340px;
+     }
+	 
+     .white-box-image-size {
+     	  width:20px;
+     }
+ }
+ 
+ @media screen and (max-width: 420px) {
+     /* Customized***********/
+     .white-popup-block {
+         background: #FFF;
+         padding: 20px 12px;
+         text-align: left;
+         max-width: 360px;
+         margin: 40px auto;
+         position: relative;
+   	     border-radius:3px;
+   	     font-size:9pt;
+   	     font-family: Tiempos;
+     }
+  
+     .white-popup-block-content {
+   	  max-width:340px;
+     }
+	 
+     .white-box-image-size {
+     	  width:20px;
+     }
+ }
+ 
+ 
+ @media screen and (max-width: 368px) {
      /* Customized***********/
      .white-popup-block {
          background: #FFF;
