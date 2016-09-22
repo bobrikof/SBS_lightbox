@@ -303,16 +303,18 @@ img.mfp-img {
       background: #FFF;
       padding: 20px 30px;
       text-align: left;
-      max-width: 500px;
+      width: 500px;
       margin: 40px auto;
       position: relative;
 	  border-radius:3px;
 	  font-size:12pt;
+	  height:60%;
 	  font-family: Tiempos;
   }
   
   .white-popup-block-content {
 	  max-width:480px;
+	  height:100%;
   }
   
   .white-box-image-size {
