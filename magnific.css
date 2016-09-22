@@ -304,7 +304,7 @@ img.mfp-img {
       padding: 20px 30px;
       text-align: left;
       width: 500px;
-      margin: 40px auto;
+      margin: 80px auto;
       position: relative;
 	  border-radius:3px;
 	  font-size:12pt;
@@ -329,7 +329,6 @@ img.mfp-img {
          padding: 20px 12px;
          text-align: left;
          max-width: 480px;
-         margin: 40px auto;
          position: relative;
    	     border-radius:3px;
    	     font-size:11pt;
@@ -352,7 +351,6 @@ img.mfp-img {
          padding: 20px 12px;
          text-align: left;
          max-width: 430px;
-         margin: 40px auto;
          position: relative;
    	     border-radius:3px;
    	     font-size:9pt;
@@ -375,7 +373,6 @@ img.mfp-img {
          padding: 20px 12px;
          text-align: left;
          max-width: 360px;
-         margin: 40px auto;
          position: relative;
    	     border-radius:3px;
    	     font-size:9pt;
@@ -399,7 +396,6 @@ img.mfp-img {
          padding: 20px 12px;
          text-align: left;
          max-width: 300px;
-         margin: 40px auto;
          position: relative;
    	     border-radius:3px;
    	     font-size:9pt;
